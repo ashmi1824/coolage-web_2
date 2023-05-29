@@ -1,0 +1,29 @@
+
+body{
+    background: linear-gradient(lightpink,lightblue);
+}
+body:hover{
+    background: linear-gradient(rgb(229, 186, 255), lightblue,lightgreen,rgb(255, 255, 129),rgb(255, 180, 94),rgb(255, 142, 142));
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rebeccapurple;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-weight: bold;
+}
+#footer{
+    position:fixed;
+    bottom:0;
+    height:30px;
+    width:100%;
+     text-align:center ;
+     background-color: white;
+     margin-top: 50px;
+}
+img:hover{
+    border-radius: 140px;
+    
+}
